@@ -7,7 +7,7 @@
     "react-dom": "^16.1.1",
     "react-scripts": "1.0.17"
   },
-  "homepage": "https://aquasmit.github.io/todo-react-app/build",
+  "homepage": "https://aquasmit.github.io/todo-react-app",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
